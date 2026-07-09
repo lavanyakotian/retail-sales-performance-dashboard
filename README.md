@@ -48,7 +48,7 @@ The project uses a retail sales dataset consisting of:
 - Store Dimension
 - Time Dimension
 - Transaction Dimension
- **Note:** The `fact_table.csv` file is not included in this repository because it exceeds GitHub's web upload size limit.
+> **Note:** The `fact_table.csv` file is not included in this repository because it exceeds GitHub's web upload size limit.
 ---
 
 # 📊 Key Performance Indicators (KPIs)
